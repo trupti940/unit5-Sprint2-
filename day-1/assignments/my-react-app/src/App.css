@@ -1,0 +1,28 @@
+body{
+  background-color: azure;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-left: 200px;
+  width:500px;
+}
+
+.App button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  background-color: rgb(221, 127, 177);
+}
+.App h1{
+  font-size: 30px;
+  color:black;
+}
+
+p {
+  font-size: 18px;
+  margin: 20px 0;
+  color:black;
+}
